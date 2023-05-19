@@ -1,9 +1,6 @@
-# Previewer bot
+# Wrapper
 
-[ bot ] Post preview creator
-
-![logo](source/screenshots/logo.jpg)
-
+[ bot ] Бот для загрузки изображения в профиль по частям
 
 # Запуск
 
@@ -21,14 +18,8 @@ API_KEY = '62843...fO70g'
 
 Запусти бота (`run.py`):
 ```bash
-cd Previewer
+cd VkWrapper
 ```
 ```bash
 python3 run.py
 ```
-
-# Скриншоты
-
-![img.png](source/screenshots/img.png)
-
-![img_1.png](source/screenshots/img_1.png)

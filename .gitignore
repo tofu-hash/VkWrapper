@@ -58,7 +58,6 @@ cmake-build-*/
 *.env
 *.db
 *.sqlite
-*.sql
 
 # IntelliJ
 out/
